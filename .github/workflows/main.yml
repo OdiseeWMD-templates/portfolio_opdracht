@@ -32,5 +32,6 @@ jobs:
         with:
           root: .
           css: true
+          log_level: INFO
           
 
