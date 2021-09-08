@@ -26,7 +26,7 @@ Zorg ervoor dat onderstaande topics zeker op je website aanbod komen:
 Zorg voor 1 css bestand met alle opmaak in. Gebruik geen inline of embedded CSS. Er wordt geen complexe opmaak verwacht. Wel wordt er verwacht dat je opmaak verzorgd en consistent is. 
 
 ## Deployment
-Plaats je website online. Zorg dat deze online blijft staan gedurende de duur van de cursus.
+Plaats je website online. Zorg dat deze minstens tot januari online blijft staan. 
 Je kan je website online plaatsen met behulp van combell (hosting door de school aangeboden), github pages of eigen hosting.
 
 ## Aandachtspunten
