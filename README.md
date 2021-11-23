@@ -39,9 +39,14 @@ Je kan je website online plaatsen met behulp van combell (hosting door de school
 * Zorg dat alle links op alle pagina's werken. Je kan dit controleren met behulp van w3c.
 
 # Afspraken
-* Schrijf alle code zelf (maak dus geen gebruik van frameworks)
+* Schrijf alle code zelf
+  * Geen code van het internet
+  * Geen frameworks of libraries
+  * Geen gegenereerde code
+  * Geen code van medestudenten
+  * ...
 * Respecteer de deadline => Te laat ingediend resulteert in een 0 score voor deze taak
 * Werk individueel! Dit is een individuele opdracht. Elke vorm van samenwerken wordt beschouwd als fraude.
 
 # Deadline
-14/10/2021 09:00
+Zie Toledo
